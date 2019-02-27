@@ -70,9 +70,11 @@ search()
 
 ```
 
-#### 2. open the Chrome dev console in the [the fake data webpage](https://s3.amazonaws.com/misc-file-snack/MOCK_SNACKER_DATA.json) 
+#### 2. open the Chrome dev console in the [the fake data webpage](https://s3.amazonaws.com/misc-file-snack/MOCK_SNACKER_DATA.json) and paste the code to the console
 
-#### 3. paste the code to the console, then press enter, you will see,
+![paste code](https://ucarecdn.com/fc854459-7c0f-4294-8962-9dbfc79d8a36/WX201902262058492x.png)
+
+#### 3. then press enter, you will see,
 
 ![output](https://ucarecdn.com/e006566b-a94e-4934-96e7-b16aef43864d/WX201902262040542x.png)
 
